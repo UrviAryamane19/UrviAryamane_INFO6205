@@ -1,0 +1,427 @@
+2021-02-02 23:19:43 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 100 runs
+2021-02-02 23:19:43 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 100 runs
+2021-02-02 23:19:44 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 100 runs
+2021-02-02 23:19:44 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 100 runs
+2021-02-02 23:19:45 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 100 runs
+2021-02-02 23:20:45 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 100 runs
+2021-02-02 23:20:46 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 100 runs
+2021-02-02 23:20:46 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 100 runs
+2021-02-02 23:20:47 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 100 runs
+2021-02-02 23:20:47 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 100 runs
+2021-02-02 23:24:10 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 100 runs
+2021-02-02 23:24:10 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 4000 with 100 runs
+2021-02-02 23:24:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 8000 with 100 runs
+2021-02-02 23:24:19 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 16000 with 100 runs
+2021-02-02 23:24:49 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 50 runs
+2021-02-02 23:24:49 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 4000 with 50 runs
+2021-02-02 23:24:50 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 8000 with 50 runs
+2021-02-02 23:24:54 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 16000 with 50 runs
+2021-02-02 23:25:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 32000 with 50 runs
+2021-02-02 23:25:36 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 50 runs
+2021-02-02 23:25:36 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 4000 with 50 runs
+2021-02-02 23:25:37 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 8000 with 50 runs
+2021-02-02 23:25:41 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 16000 with 50 runs
+2021-02-02 23:25:58 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 32000 with 50 runs
+2021-02-02 23:26:56 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-02 23:26:56 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 50 runs
+2021-02-02 23:26:57 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 4000 with 50 runs
+2021-02-02 23:26:58 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 8000 with 50 runs
+2021-02-02 23:27:02 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 16000 with 50 runs
+2021-02-02 23:28:09 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-02 23:28:09 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 50 runs
+2021-02-02 23:28:09 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 4000 with 50 runs
+2021-02-02 23:28:09 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 8000 with 50 runs
+2021-02-02 23:28:10 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 16000 with 50 runs
+2021-02-02 23:31:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-02 23:31:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-02 23:31:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 50 runs
+2021-02-02 23:31:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 50 runs
+2021-02-02 23:31:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 4000 with 50 runs
+2021-02-02 23:31:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 4000 with 50 runs
+2021-02-02 23:31:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 8000 with 50 runs
+2021-02-02 23:31:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 8000 with 50 runs
+2021-02-02 23:31:13 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 16000 with 50 runs
+2021-02-02 23:31:13 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 16000 with 50 runs
+2021-02-02 23:33:47 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-02 23:33:47 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 50 runs
+2021-02-02 23:33:47 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 4000 with 50 runs
+2021-02-02 23:33:47 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 8000 with 50 runs
+2021-02-02 23:33:48 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 16000 with 50 runs
+2021-02-02 23:33:48 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 32000 with 50 runs
+2021-02-02 23:33:48 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 64000 with 50 runs
+2021-02-02 23:33:48 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 128000 with 50 runs
+2021-02-02 23:33:48 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 256000 with 50 runs
+2021-02-02 23:33:48 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 512000 with 50 runs
+2021-02-02 23:36:11 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-02 23:36:11 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 50 runs
+2021-02-02 23:36:11 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 4000 with 50 runs
+2021-02-02 23:36:11 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 8000 with 50 runs
+2021-02-02 23:36:11 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 16000 with 50 runs
+2021-02-02 23:36:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 32000 with 50 runs
+2021-02-02 23:36:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 64000 with 50 runs
+2021-02-02 23:36:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 128000 with 50 runs
+2021-02-02 23:36:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 256000 with 50 runs
+2021-02-02 23:36:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 512000 with 50 runs
+2021-02-02 23:37:17 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-02 23:37:17 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 50 runs
+2021-02-02 23:37:17 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 4000 with 50 runs
+2021-02-02 23:37:17 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 8000 with 50 runs
+2021-02-02 23:37:17 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 16000 with 50 runs
+2021-02-02 23:37:18 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 32000 with 50 runs
+2021-02-02 23:37:18 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 64000 with 50 runs
+2021-02-02 23:37:18 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 128000 with 50 runs
+2021-02-02 23:37:18 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 256000 with 50 runs
+2021-02-02 23:37:18 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 512000 with 50 runs
+2021-02-02 23:43:43 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-02 23:43:43 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-02 23:43:43 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-02 23:43:43 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-02 23:43:43 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-02 23:43:43 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 1000 with 50 runs
+2021-02-02 23:43:43 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 1000 with 50 runs
+2021-02-02 23:43:43 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 1000 with 50 runs
+2021-02-02 23:43:43 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 1000 with 50 runs
+2021-02-02 23:43:43 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Reversed array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Reversed array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Reversed array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Reversed array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Reversed array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Partially ordered array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Partially ordered array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Partially ordered array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Partially ordered array with length 1000 with 50 runs
+2021-02-03 12:33:40 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Partially ordered array with length 1000 with 50 runs
+2021-02-03 12:35:09 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 1000 with 50 runs
+2021-02-03 12:35:09 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 2000 with 50 runs
+2021-02-03 12:35:09 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 4000 with 50 runs
+2021-02-03 12:35:09 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 8000 with 50 runs
+2021-02-03 12:35:10 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Random array with length 16000 with 50 runs
+2021-02-03 12:35:10 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 32000 with 50 runs
+2021-02-03 12:35:10 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 64000 with 50 runs
+2021-02-03 12:35:10 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 128000 with 50 runs
+2021-02-03 12:35:10 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 256000 with 50 runs
+2021-02-03 12:35:10 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Ordered array with length 512000 with 50 runs
+2021-02-03 12:35:11 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Reversed array with length 1024000 with 50 runs
+2021-02-03 12:35:11 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Reversed array with length 2048000 with 50 runs
+2021-02-03 12:35:12 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Reversed array with length 4096000 with 50 runs
+2021-02-03 12:35:14 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Reversed array with length 8192000 with 50 runs
+2021-02-03 12:35:17 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Reversed array with length 16384000 with 50 runs
+2021-02-03 12:35:22 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Partially ordered array with length 32768000 with 50 runs
+2021-02-03 12:35:32 INFO  Benchmark_Timer - Begin run: Time required for Insertion sort for Partially ordered array with length 65536000 with 50 runs
+2021-02-03 13:05:00 INFO  Benchmark_Timer - Begin run: Insertionsort: 500 with 50 runs
+2021-02-03 13:05:00 INFO  Benchmark_Timer - Begin run: Insertionsort: 1000 with 50 runs
+2021-02-03 13:05:01 INFO  Benchmark_Timer - Begin run: Insertionsort: 2000 with 50 runs
+2021-02-03 13:05:01 INFO  Benchmark_Timer - Begin run: Insertionsort: 4000 with 50 runs
+2021-02-03 13:05:01 INFO  Benchmark_Timer - Begin run: Insertionsort: 8000 with 50 runs
+2021-02-03 13:05:40 INFO  Benchmark_Timer - Begin run: Insertionsort: 1000 with 50 runs
+2021-02-03 13:05:40 INFO  Benchmark_Timer - Begin run: Insertionsort: 2000 with 50 runs
+2021-02-03 13:05:40 INFO  Benchmark_Timer - Begin run: Insertionsort: 4000 with 50 runs
+2021-02-03 13:05:40 INFO  Benchmark_Timer - Begin run: Insertionsort: 8000 with 50 runs
+2021-02-03 13:05:41 INFO  Benchmark_Timer - Begin run: Insertionsort: 16000 with 50 runs
+2021-02-03 13:07:49 INFO  Benchmark_Timer - Begin run: Insertionsort: 1000 with 50 runs
+2021-02-03 13:07:49 INFO  Benchmark_Timer - Begin run: Insertionsort: 2000 with 50 runs
+2021-02-03 13:07:49 INFO  Benchmark_Timer - Begin run: Insertionsort: 4000 with 50 runs
+2021-02-03 13:07:49 INFO  Benchmark_Timer - Begin run: Insertionsort: 8000 with 50 runs
+2021-02-03 13:07:50 INFO  Benchmark_Timer - Begin run: Insertionsort: 16000 with 50 runs
+2021-02-03 13:09:10 INFO  Benchmark_Timer - Begin run: Insertionssssort: 1000 with 50 runs
+2021-02-03 13:09:10 INFO  Benchmark_Timer - Begin run: Insertionssssort: 2000 with 50 runs
+2021-02-03 13:09:10 INFO  Benchmark_Timer - Begin run: Insertionssssort: 4000 with 50 runs
+2021-02-03 13:09:10 INFO  Benchmark_Timer - Begin run: Insertionssssort: 8000 with 50 runs
+2021-02-03 13:09:11 INFO  Benchmark_Timer - Begin run: Insertionssssort: 16000 with 50 runs
+2021-02-03 13:12:14 INFO  Benchmark_Timer - Begin run: InsertionSort: 1000 with 50 runs
+2021-02-03 13:12:14 INFO  Benchmark_Timer - Begin run: InsertionSort: 2000 with 50 runs
+2021-02-03 13:12:14 INFO  Benchmark_Timer - Begin run: InsertionSort: 4000 with 50 runs
+2021-02-03 13:12:14 INFO  Benchmark_Timer - Begin run: InsertionSort: 8000 with 50 runs
+2021-02-03 13:12:14 INFO  Benchmark_Timer - Begin run: InsertionSort: 16000 with 50 runs
+2021-02-03 13:15:04 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 50 runs
+2021-02-03 13:15:04 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 50 runs
+2021-02-03 13:15:04 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 50 runs
+2021-02-03 13:15:04 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 50 runs
+2021-02-03 13:15:05 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 50 runs
+2021-02-03 13:20:43 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 50 runs
+2021-02-03 13:20:43 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 50 runs
+2021-02-03 13:20:43 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 50 runs
+2021-02-03 13:20:43 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 50 runs
+2021-02-03 13:20:44 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 50 runs
+2021-02-03 13:20:44 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 32000 with 50 runs
+2021-02-03 13:20:44 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 64000 with 50 runs
+2021-02-03 13:20:44 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 128000 with 50 runs
+2021-02-03 13:20:44 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 256000 with 50 runs
+2021-02-03 13:20:44 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 512000 with 50 runs
+2021-02-03 13:20:45 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1024000 with 50 runs
+2021-02-03 13:20:45 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2048000 with 50 runs
+2021-02-03 13:20:46 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4096000 with 50 runs
+2021-02-03 13:20:48 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8192000 with 50 runs
+2021-02-03 13:20:51 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16384000 with 50 runs
+2021-02-03 13:20:55 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 32768000 with 50 runs
+2021-02-03 13:24:04 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 50 runs
+2021-02-03 13:24:05 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 50 runs
+2021-02-03 13:24:05 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 50 runs
+2021-02-03 13:24:05 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 50 runs
+2021-02-03 13:24:05 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 50 runs
+2021-02-03 13:26:26 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 50 runs
+2021-02-03 13:26:26 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 50 runs
+2021-02-03 13:26:26 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 50 runs
+2021-02-03 13:26:26 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 1000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 2000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 4000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 8000 with 50 runs
+2021-02-03 13:26:27 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 16000 with 50 runs
+2021-02-03 13:31:23 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 50 runs
+2021-02-03 13:31:23 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 50 runs
+2021-02-03 13:31:23 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 50 runs
+2021-02-03 13:31:23 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 50 runs
+2021-02-03 13:31:23 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 50 runs
+2021-02-03 13:31:23 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 50 runs
+2021-02-03 13:31:23 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 50 runs
+2021-02-03 13:31:23 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 50 runs
+2021-02-03 13:31:23 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 50 runs
+2021-02-03 13:31:23 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 50 runs
+2021-02-03 13:31:24 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 50 runs
+2021-02-03 13:31:24 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 50 runs
+2021-02-03 13:31:24 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 50 runs
+2021-02-03 13:31:24 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 50 runs
+2021-02-03 13:31:24 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 50 runs
+2021-02-03 13:31:56 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 50 runs
+2021-02-03 13:31:56 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 50 runs
+2021-02-03 13:31:56 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 50 runs
+2021-02-03 13:31:56 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 50 runs
+2021-02-03 13:31:57 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 50 runs
+2021-02-03 13:31:57 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 50 runs
+2021-02-03 13:31:57 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 50 runs
+2021-02-03 13:31:57 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 50 runs
+2021-02-03 13:31:57 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 50 runs
+2021-02-03 13:31:57 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 50 runs
+2021-02-03 13:31:57 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 50 runs
+2021-02-03 13:31:57 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 50 runs
+2021-02-03 13:31:57 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 50 runs
+2021-02-03 13:31:57 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 50 runs
+2021-02-03 13:31:57 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 50 runs
+2021-02-03 13:32:24 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 50 runs
+2021-02-03 13:32:24 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 50 runs
+2021-02-03 13:32:24 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 50 runs
+2021-02-03 13:32:24 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 50 runs
+2021-02-03 13:32:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 50 runs
+2021-02-03 13:32:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 50 runs
+2021-02-03 13:32:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 50 runs
+2021-02-03 13:32:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 50 runs
+2021-02-03 13:32:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 50 runs
+2021-02-03 13:32:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 50 runs
+2021-02-03 13:32:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 50 runs
+2021-02-03 13:32:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 50 runs
+2021-02-03 13:32:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 50 runs
+2021-02-03 13:32:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 50 runs
+2021-02-03 13:32:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 50 runs
+2021-02-03 16:08:51 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 50 runs
+2021-02-03 16:08:51 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 50 runs
+2021-02-03 16:08:51 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 50 runs
+2021-02-03 16:08:51 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 50 runs
+2021-02-03 16:08:52 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 50 runs
+2021-02-03 16:08:52 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 50 runs
+2021-02-03 16:08:52 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 50 runs
+2021-02-03 16:08:52 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 50 runs
+2021-02-03 16:08:52 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 50 runs
+2021-02-03 16:08:52 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 50 runs
+2021-02-03 16:08:52 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 50 runs
+2021-02-03 16:08:52 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 50 runs
+2021-02-03 16:08:52 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 50 runs
+2021-02-03 16:08:52 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 50 runs
+2021-02-03 16:08:52 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 50 runs
+2021-02-03 16:13:16 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 1000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 2000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 4000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 8000 with 50 runs
+2021-02-03 16:14:39 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 16000 with 50 runs
+2021-02-03 16:15:07 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 100 runs
+2021-02-03 16:15:07 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 100 runs
+2021-02-03 16:15:07 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 100 runs
+2021-02-03 16:15:07 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 100 runs
+2021-02-03 16:15:07 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 100 runs
+2021-02-03 16:15:07 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 100 runs
+2021-02-03 16:15:07 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 100 runs
+2021-02-03 16:15:07 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 100 runs
+2021-02-03 16:15:07 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 100 runs
+2021-02-03 16:15:07 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 100 runs
+2021-02-03 16:15:07 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 100 runs
+2021-02-03 16:15:07 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 100 runs
+2021-02-03 16:15:08 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 100 runs
+2021-02-03 16:15:08 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 100 runs
+2021-02-03 16:15:08 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 100 runs
+2021-02-03 16:15:08 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 1000 with 100 runs
+2021-02-03 16:15:08 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 2000 with 100 runs
+2021-02-03 16:15:08 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 4000 with 100 runs
+2021-02-03 16:15:08 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 8000 with 100 runs
+2021-02-03 16:15:08 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 16000 with 100 runs
+2021-02-03 16:15:49 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 1,000 runs
+2021-02-03 16:15:49 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 1000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 2000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 4000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 8000 with 1,000 runs
+2021-02-03 16:15:50 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 16000 with 1,000 runs
+2021-02-03 16:16:10 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 10 runs
+2021-02-03 16:16:10 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 10 runs
+2021-02-03 16:16:10 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 10 runs
+2021-02-03 16:16:10 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 1000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 2000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 4000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 8000 with 10 runs
+2021-02-03 16:16:11 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 16000 with 10 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 500 runs
+2021-02-03 16:16:25 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 500 runs
+2021-02-03 16:16:26 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 500 runs
+2021-02-03 16:16:26 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 1000 with 500 runs
+2021-02-03 16:16:26 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 2000 with 500 runs
+2021-02-03 16:16:26 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 4000 with 500 runs
+2021-02-03 16:16:26 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 8000 with 500 runs
+2021-02-03 16:16:26 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 16000 with 500 runs
+2021-02-03 16:19:41 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 500 runs
+2021-02-03 16:19:41 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 500 runs
+2021-02-03 16:19:41 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 500 runs
+2021-02-03 16:19:41 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 500 runs
+2021-02-03 16:19:41 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 500 runs
+2021-02-03 16:19:41 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 500 runs
+2021-02-03 16:19:41 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 500 runs
+2021-02-03 16:19:41 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 500 runs
+2021-02-03 16:19:42 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 500 runs
+2021-02-03 16:19:42 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 500 runs
+2021-02-03 16:19:42 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 500 runs
+2021-02-03 16:19:42 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 500 runs
+2021-02-03 16:19:42 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 500 runs
+2021-02-03 16:19:42 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 500 runs
+2021-02-03 16:19:42 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 500 runs
+2021-02-03 16:19:42 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 1000 with 500 runs
+2021-02-03 16:19:42 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 2000 with 500 runs
+2021-02-03 16:19:42 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 4000 with 500 runs
+2021-02-03 16:19:42 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 8000 with 500 runs
+2021-02-03 16:19:42 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 16000 with 500 runs
+2021-02-03 16:21:00 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 500 runs
+2021-02-03 16:21:00 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 500 runs
+2021-02-03 16:21:00 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 500 runs
+2021-02-03 16:21:00 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 1000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 2000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 4000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 8000 with 500 runs
+2021-02-03 16:21:01 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 16000 with 500 runs
+2021-02-03 16:33:58 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 1000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 2000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 4000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 8000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Random Ordered Array: 16000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 1000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 2000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 4000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 8000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Ordered Array: 16000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 1000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 2000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 4000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 8000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Reverse Ordered Array: 16000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 1000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 2000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 4000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 8000 with 500 runs
+2021-02-03 16:33:59 INFO  Benchmark_Timer - Begin run: InsertionSort for Partially Ordered Array: 16000 with 500 runs
